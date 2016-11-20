@@ -29,6 +29,7 @@
 			<key>IONameMatch</key>
 			<array>
 				<string>pci168c,34</string>
+				<string>pci168c,36</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>600</integer>
